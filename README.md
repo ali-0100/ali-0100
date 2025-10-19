@@ -1,5 +1,5 @@
 ## Ali
-
+CS NU 2029
 <!--
 **ali-0100/ali-0100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
